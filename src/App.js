@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div className="App">
-
-    </div>
+    <h1 className="text-lg font-bold underline">
+      Hello world!
+    </h1>
   );
 }
 
